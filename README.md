@@ -18,7 +18,7 @@ This project is built with :
 ## Installation 📦
 ### To install Django Video Caller App, follow these steps:
 ## 1. Clone this repository:
->'https://github.com/BurhanMohammad/Django-VIdeocall-App.git'
+>'https://github.com/matchbest/Django-VIdeocall-App.git'
 ## 2. Navigate to the project directory:
 
 ```bash
@@ -106,10 +106,6 @@ This project is built with :
 #### Step 3
 
 - 🔃 Create a new pull request.
-## Creadits :
-
-#### Django Video Caller App was created by Mohammad Burhan
-
 
 ## License
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
