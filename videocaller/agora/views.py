@@ -58,6 +58,7 @@ def generate_agora_token(request):
     return JsonResponse({'token': token, 'appID': appID})
 
 
+
 def call_user(request):
     body = json.loads(request.body.decode('utf-8'))
 
